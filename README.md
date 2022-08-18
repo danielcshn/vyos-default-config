@@ -1,0 +1,1 @@
+# vyos-default-config
